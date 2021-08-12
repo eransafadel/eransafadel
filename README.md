@@ -1,6 +1,5 @@
 <div align="center">
   <h1> <b> Hi there, My name is Eran Safadel 👋  </b> </h1>                   
-  <h3 align="center"> I am a junior developer and a computer science graduate </h3>
 </div>
  
  💡 Here you will find a number of projects I have built during and after the degree.
