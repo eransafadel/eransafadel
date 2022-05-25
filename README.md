@@ -5,13 +5,8 @@
  💡 Here you will find a number of projects I have built during and after the degree.
 
 - I wrote the projects in the following languages and technologies:
-  #### C++, JavaScript, Node.js, Java ,HTML, CSS, SQL and Python.
+  #### React, JavaScript, Node.js, Java ,HTML, CSS, SQL and Python.
 
-- I developed 2 apps in a development environment - **Android Studio**:
-  <p> 📱 EasyVol - as part of the final project. </p>
-  <p> 📱 ChatApp. </p>
-  
-- In addition, I developed programs in **React** as part of the React learning process.
 
 
 <h3 align="left">Languages and Tools:</h3>
