@@ -4,7 +4,6 @@
  
  ![Eran's GitHub stats](https://github-readme-stats.vercel.app/api?username=eransafadel&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eransafadel&theme=tokyonight&layout=compact)
 
 - I wrote the projects in the following languages and technologies:
   #### React, JavaScript, Node.js, Java ,HTML, CSS, SQL and Python.
