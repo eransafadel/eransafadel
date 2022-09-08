@@ -2,7 +2,9 @@
   <h1> <b> Hi there, My name is Eran Safadel 👋  </b> </h1>                   
 </div>
  
- 💡 Here you will find a number of projects I have built during and after the degree.
+ ![Eran's GitHub stats](https://github-readme-stats.vercel.app/api?username=eransafadel&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eransafadel&theme=tokyonight&layout=compact)
 
 - I wrote the projects in the following languages and technologies:
   #### React, JavaScript, Node.js, Java ,HTML, CSS, SQL and Python.
